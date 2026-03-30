@@ -6,17 +6,17 @@
 ## Voice
 
 - **Tone**: [e.g., bold and direct, casual but knowledgeable, intimate and personal]
-- **Language**: [e.g., English, French, bilingual]
-- **Signature phrases**: [e.g., words or expressions you always use]
-- **Never say**: [e.g., words or phrases that don't fit your brand]
+- **Language**: [e.g., English, Spanish, bilingual]
+- **Signature phrases**: [e.g., acompañame, aprendamos]
+- **Never say**: [e.g., comprame, compranos]
 
 ## Visual Identity
 
-- **Primary colors**: [e.g., #FF2D8A, #FFF466, #1B0280]
-- **Style**: [e.g., editorial, bright, human-centric, magazine quality]
+- **Primary colors**: [e.g., #222208, #6A754A, #7F294C]
+- **Style**: [e.g., editorial, bright, artistic, creative, cinemagraphic, human-centric, magazine quality]
 - **Lighting**: [e.g., golden hour, studio Rembrandt, natural window light]
 - **Composition**: [e.g., rule of thirds, shallow DOF, negative space]
-- **Typography**: [e.g., bold sans-serif overlays, white + red accent]
+- **Typography**: [e.g., bold sans-serif overlays, green + pink accent]
 
 ## Content Format
 
@@ -35,8 +35,8 @@
 
 ## Audience
 
-- **Who**: [e.g., solo creators, AI enthusiasts, designers, 20-35 years old]
-- **They want**: [e.g., cinema-quality AI workflows, time-saving automation]
+- **Who**: [e.g., solo creators, marketing students, influencers, ninema enthusiasts, designers, 20-45 years old]
+- **They want**: [e.g., cinema-quality content, AI workflows, time-saving automation, entertainment]
 - **They struggle with**: [e.g., too many tools, inconsistent results, no system]
 
 ## Rules
